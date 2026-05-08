@@ -1,0 +1,8 @@
+streamlit
+pandas
+folium
+numpy
+scikit-fuzzy
+streamlit-folium
+fuzzywuzzy
+python-Levenshtein
