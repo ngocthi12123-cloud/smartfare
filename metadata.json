@@ -1,0 +1,11 @@
+{
+  "name": "Nhà Tốt AI Pro",
+  "description": "Premium AI-powered rental search platform with price prediction and interactive maps.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "AI Price Prediction",
+    "Interactive Real Estate Mapping"
+  ]
+}
